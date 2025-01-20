@@ -1,3 +1,13 @@
+# Dylan Wolf's First CS193 Homework
+
+CS193 Favorites:
+- Minimal (if any) stress
+- Very helpful course content
+
+```python
+print("codeblock test")
+```
+
 ## test
 
 
